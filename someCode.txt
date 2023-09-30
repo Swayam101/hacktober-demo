@@ -2,7 +2,7 @@
 
 int main(){
 
-cout<<"Hello World!";
+cout<<"Namaste World!";
 
 return 0;
 }
